@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["ES2015","ES2019", "DOM"],
+    "esModuleInterop": true,
+    "alwaysStrict": true, // "use strict" 有効化
+    "strictNullChecks": false, // null|undefined 厳格化
+    "noImplicitAny": true,
+  }
+}
